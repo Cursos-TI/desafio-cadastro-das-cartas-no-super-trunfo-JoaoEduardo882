@@ -13,7 +13,7 @@ int main(){
     //Cadastro da primeira carta(Cidade 1)
     printf("\n Cadastro da Carta 1: \n");
 
-    printf("Digite o estado (A-H): ");
+    printf("Digite o estado uma letra de (A-H): ");
     scanf(" %c", &estado1);
 
     printf("Digite o código da carta (ex: A01, B03): ");
@@ -37,7 +37,7 @@ int main(){
     //Cadastro da segunda carta(Cidade 2)
     printf("\n Cadastro da Carta 2: \n");
 
-    printf("Digite o estado (A-H): ");
+    printf("Digite o estado uma letra de (A-H): ");
     scanf(" %c", &estado2);
 
     printf("Digite o código da carta (ex: A01, B03): ");
