@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <string.h>
+
 int main(){
     //Definindo variaveis para os atributos de cada carta
     char estado1, estado2;                     //Oito estados representados por uma Letra de A a H
